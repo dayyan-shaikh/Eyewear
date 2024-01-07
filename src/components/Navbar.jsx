@@ -18,7 +18,7 @@ const Navbar = () => {
           <a href="#">Contact</a>
         </div>
         <div className='cart'>
-            Cart<i class="f1-1x fa-solid fa-cart-shopping"></i>
+            Cart<i className="f1-1x fa-solid fa-cart-shopping"></i>
         </div>
       </nav>
     </header>
