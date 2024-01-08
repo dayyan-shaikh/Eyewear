@@ -12,13 +12,12 @@ const Navbar = () => {
         </div>
         <div className="navbar">
           <a href="#">Home</a>
-          <a href="#">About</a>
           <a href="#">Shop</a>
           <a href="#">Offers</a>
           <a href="#">Contact</a>
         </div>
         <div className='cart'>
-            Cart<i className="f1-1x fa-solid fa-cart-shopping"></i>
+            Cart<i className="fa-1x fa-solid fa-cart-shopping"></i>
         </div>
       </nav>
     </header>
