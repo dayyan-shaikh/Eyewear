@@ -11,10 +11,10 @@ const Navbar = () => {
           <img src={logo} alt="img" /><br />
         </div>
         <div className="navbar">
-          <a href="#">Home</a>
-          <a href="#">Shop</a>
-          <a href="#">Offers</a>
-          <a href="#">Contact</a>
+          <a href="#">Eyeglasses</a>
+          <a href="#">Sunglasses</a>
+          <a href="#">Lenses</a>
+          <a href="#">Store Locator</a>
         </div>
         <div className='cart'>
             Cart<i className="fa-1x fa-solid fa-cart-shopping"></i>
