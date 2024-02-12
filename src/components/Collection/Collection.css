@@ -1,7 +1,5 @@
 .new-collections{
-    max-width: 150%;
-    align-items: center;
-    justify-content: center;
+    max-width: 100%;
 } 
 
 .new-collections h1{
@@ -21,15 +19,16 @@
 
 .collections{
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr ;
-    align-items: center;
-    justify-content: center;
+    grid-template-columns: 1fr 1fr 1fr 1fr ;
+    gap: 40px;
 } 
 
 .collections img{
-    width: 200px;
+    width: 220px;
+    height: 150px;
     aspect-ratio: 4/3;
     box-shadow: 4px 7px 7px 0px #00000042;
+    border-radius: 20px;
     cursor: pointer;
 
 }
