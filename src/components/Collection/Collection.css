@@ -1,0 +1,36 @@
+.new-collections{
+    max-width: 150%;
+    align-items: center;
+    justify-content: center;
+} 
+
+.new-collections h1{
+    color: #171717;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+
+.new-collections hr{
+    width: 250px;
+    height: 6px;
+    border-radius: 6px;
+    background: #252525;
+}
+
+.collections{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr ;
+    align-items: center;
+    justify-content: center;
+} 
+
+.collections img{
+    width: 200px;
+    aspect-ratio: 4/3;
+    box-shadow: 4px 7px 7px 0px #00000042;
+    cursor: pointer;
+
+}
+
