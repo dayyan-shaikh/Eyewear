@@ -1,47 +1,48 @@
 import React from 'react'
 import './Footer.css'
-import { Col, Container, Row } from "react-bootstrap";
 
 const Footer = () => {
   return (
-        <footer>
-          <Container>
-            <Row className="footer-row">
-              <Col md={3} sm={5} className="box">
-                <div className="logo">
-                  <ion-icon name="bag"></ion-icon>
-                  <h1>Arch EyeWare</h1>
-                </div>
-                <p>Get your favourate eye at MultiMart at very hood price</p>
-              </Col>
-              <Col md={3} sm={5} className="box">
-                <h2>About Us</h2>
+    
+    <footer className="footer">
+      <div className="container">
+        <div className="footer__row">
+            <div className="footer__col">
+                <h3>About Us</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit Lorem, ipsum dolor sit amet consectetur </p>
+                
+            </div>
+            <div className="footer__col">
+                <h3>Customer Service</h3>
                 <ul>
-                  <li>Terms & Conditions</li>
-                  <li>Privacy Policy</li>
+                    <li><a href="#">Contact Us</a></li>
+                    <li><a href="#">FAQs</a></li>
+                    <li><a href="#">Returns & Exchanges</a></li>
+                    <li><a href="#">Shipping</a></li>
                 </ul>
-              </Col>
-              <Col md={3} sm={5} className="box">
-                <h2>Customer Care</h2>
+            </div>
+            <div className="footer__col">
+                <h3>Follow Us</h3>
                 <ul>
-                  <li>Help Center </li>
-                  <li>How to Buy </li>
-                  <li>Track Your Order </li>
-                  <li>Returns & Refunds </li>
+                    <li><a href="#">Facebook</a></li>
+                    <li><a href="#">Twitter</a></li>
+                    <li><a href="#">Instagram</a></li>
                 </ul>
-              </Col>
-              <Col md={3} sm={5} className="box">
-                <h2>Contact Us</h2>
-                <ul>
-                  <li>999 Ambernath West, Mumbai, India 421501</li>
-                  <li>Email: chai_pi_lo_friends@gmail.com</li>
-                  <li>Phone: +91 8989898989</li>
-                </ul>
-              </Col>
-            </Row>
-          </Container>
-        </footer>
-      );
-    };
+            </div>
+            <div className='footer__col'>
+              <h3>Address</h3>
+            <ul>
+              <li>999 Ambernath West, Mumbai, India 421501</li>
+              <li>Email: chai_pi_lo_friends@gmail.com</li>
+              <li>Phone: +91 8989898989</li>
+            </ul>
+            </div>
+        </div>
+      </div>
+    </footer>
+
+    
+  )
+}
 
 export default Footer

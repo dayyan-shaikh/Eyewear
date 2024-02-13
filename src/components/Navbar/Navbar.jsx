@@ -12,9 +12,9 @@ const Navbar = () => {
           <img src={logo} alt="img" /><br />
         </div>
         <div className="navbar">
-          <a href="#">Eyeglasses</a>
-          <a href="#">Sunglasses</a>
-          <a href="#">Lenses</a>
+          <a href="#">Home</a>
+          <a href="#">Shop</a>
+          <a href="#">Offers</a>
           <a href="#">Store Locator</a>
         </div>
         <div className='cart'>

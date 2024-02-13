@@ -231,7 +231,7 @@ export const products = [
 
   {
     id: "03",
-    productName: "Amazon Brand Modern Sofa",
+    productName: "Amazon Brand Modern watch",
     imgUrl: BDimg3,
     category: "all",
     price: 173,
@@ -275,7 +275,7 @@ export const products = [
   },
   {
     id: "04",
-    productName: "Fllufy Sheep Sofa",
+    productName: "Fllufy Sheep watch",
     imgUrl: BDimg5,
     category: "all",
     price: 163,
@@ -298,7 +298,7 @@ export const products = [
 
   {
     id: "05",
-    productName: "Faux Velvet Sofa",
+    productName: "Faux Velvet watch",
     imgUrl: BDimg6,
     category: "all",
     price: 163,
@@ -321,7 +321,7 @@ export const products = [
 
   {
     id: "06",
-    productName: "Fllufy Sheep Sofa",
+    productName: "Fllufy Sheep watch",
     imgUrl: img1,
     category: "all",
     price: 163,
@@ -366,7 +366,7 @@ export const products = [
 
   {
     id: "27",
-    productName: "Modern Arm Sofa",
+    productName: "Modern Arm watch",
     imgUrl: img3,
     category: "all",
     price: 173,
@@ -389,7 +389,7 @@ export const products = [
 
   {
     id: "08",
-    productName: "Baltsar Chair",
+    productName: "Baltsar watch",
     imgUrl: img4,
     category: "all",
     price: 89,
