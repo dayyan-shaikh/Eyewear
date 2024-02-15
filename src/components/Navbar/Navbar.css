@@ -37,6 +37,7 @@
     color: rgb(21, 15, 82);
     padding: 20px 20px;
     font-size: 21px;
+    font-weight: bold;
     position: relative;
   }
   
@@ -61,4 +62,18 @@
     position: relative;
     cursor: pointer;
     color: rgb(21, 15, 82);
+    font-weight: bold;
   }  
+
+  .offer{
+    max-width: 50%;
+    position: absolute;
+    top: 45%;
+    left: 18%;
+    transform: translate(-50%, -50%);
+    text-align: left;
+    font-weight: bold;
+    font-size: 2.5rem;
+  }
+
+

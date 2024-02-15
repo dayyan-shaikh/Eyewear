@@ -15,12 +15,15 @@ const Navbar = () => {
           <a href="#">Home</a>
           <a href="#">Shop</a>
           <a href="#">Offers</a>
-          <a href="#">Store Locator</a>
+          <a href="#">Cart</a>
         </div>
         <div className='cart'>
             Cart<i className="fa-1x fa-solid fa-cart-shopping"></i>
         </div>
       </nav>
+      <div className='offer'>
+        <i>30% off for <br />your first shopping</i>
+      </div>
     </header>
     </>
   )
