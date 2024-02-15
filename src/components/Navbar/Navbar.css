@@ -47,7 +47,7 @@
   .navbar a::before {
     content: "";
     position: absolute;
-    top: 0;
+    top: -10px;
     left: 0;
     width: 0%;
     height: 100%;
@@ -61,7 +61,7 @@
   
   .cart{
     font-size: 20px;
-    left: 12%;
+    left: 15%;
     position: relative;
     cursor: pointer;
     color: rgb(21, 15, 82);
