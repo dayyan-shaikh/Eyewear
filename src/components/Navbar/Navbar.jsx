@@ -22,7 +22,7 @@ const Navbar = () => {
         </div>
       </nav>
       <div className='offer'>
-        <i>30% off for <br />your first shopping</i>
+        <i>30% off on your <br />first shopping</i>
       </div>
     </header>
     </>
