@@ -189,7 +189,7 @@ import BDimg6 from "../Images/BDimg6.jpg";
 export const products = [
   {
     id: "01",
-    productName: " Beam Westview",
+    productName: " Beam Westview Bigelow ",
     imgUrl: BDimg1,
     category: "all",
     price: 599,
@@ -389,7 +389,7 @@ export const products = [
 
   {
     id: "08",
-    productName: "Baltsar watch",
+    productName: "Baltsar watch Bigelow Modern",
     imgUrl: img4,
     category: "all",
     price: 89,
@@ -412,7 +412,7 @@ export const products = [
 
   {
     id: "09",
-    productName: "Helmar Chair",
+    productName: "Helmar Chair Bigelow Modern",
     imgUrl: img5,
     category: "all",
     price: 112,
@@ -457,7 +457,7 @@ export const products = [
   },
   {
     id: "25",
-    productName: "Sakarias Armchair",
+    productName: "Sakarias Armchair Bigelow Modern",
     imgUrl: img7,
     category: "all",
     price: 99,
@@ -502,7 +502,7 @@ export const products = [
 
   {
     id: "12",
-    productName: "Realme 8",
+    productName: "Realme 8 Bigelow Modern",
     imgUrl: img9,
     category: "all",
     price: 599,
@@ -525,7 +525,7 @@ export const products = [
 
   {
     id: "13",
-    productName: "One Plus Nord",
+    productName: "One Plus Nord Bigelow Modern",
     imgUrl: img10,
     category: "all",
     price: 799,
@@ -594,7 +594,7 @@ export const products = [
 
   {
     id: "16",
-    productName: "Rolex Watch",
+    productName: "Rolex Watch Bigelow Modern",
     imgUrl: img13,
     category: "all",
     price: 299,
@@ -640,7 +640,7 @@ export const products = [
 
   {
     id: "18",
-    productName: "Rolex Watch",
+    productName: "Rolex Watch Bigelow Modern" ,
     imgUrl: img15,
     category: "all",
     price: 299,

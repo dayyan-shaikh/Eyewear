@@ -9,7 +9,7 @@ const Collection = () => {
         <h1>NEW COLLECTIONS</h1>
       <div className="collections">
         {products.map((item,i)=>{
-            return <Item key={i} id={item.id} name={item.productName} image={item.imgUrl} new_price={item.new_price} old_price={item.old_price} />
+            return <Item key={i} id={item.id} name={item.productName} image={item.imgUrl} price={item.price} description={item.description}/>
         })}
       </div>      
     </div>
