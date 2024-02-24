@@ -13,8 +13,7 @@ const Navbar = () => {
         </div>
         <div className="navbar">
           <a href="#">Home</a>
-          <a href="#">Shop</a>
-          <a href="#">Offers</a>
+          <a href="#">Products</a>
           <a href="#">Cart</a>
         </div>
         <div className='cart'>
