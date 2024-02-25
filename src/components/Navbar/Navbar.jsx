@@ -14,7 +14,7 @@ const Navbar = () => {
         <div className="navbar">
           <a href="#">Home</a>
           <a href="#">Products</a>
-          <a href="#">Cart</a>
+          <a href="#">Contact</a>
         </div>
         <div className='cart'>
             Cart<i className="fa-1x fa-solid fa-cart-shopping"></i>

@@ -21,3 +21,12 @@
     transform: scale(1.02);
     transition: 0.6s;
 }
+.item button{
+    margin-left: 3.7rem;
+    margin-top: 15px;
+    font-size: large;
+    width: 100px;
+    cursor: pointer;
+    padding: 5px 5px;
+    border-radius: 4px;
+}

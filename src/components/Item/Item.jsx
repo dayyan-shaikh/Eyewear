@@ -10,8 +10,11 @@ const Item = (props) => {
         <div className="item-new-price">
             ${props.price}
         </div>
+       
       </div>
+      <button>Buy now</button>
     </div>
+     
   )
 }
 
